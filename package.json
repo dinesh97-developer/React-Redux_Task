@@ -4,14 +4,10 @@
   "version": "0.0.0",
   "type": "module",
  "scripts": {
-    "dev": "vite",
-    "start": "react-scripts start",
-    "build": "vite build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
-
+  "dev": "vite",
+  "build": "vite build",
+  "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+  "preview": "vite preview"
   },
   "dependencies": {
     "@eslint/config-array": "^0.16.0",
